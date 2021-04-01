@@ -1,0 +1,75 @@
+
+@media(max-width:991px) {
+    header h1{
+        font-size: 50px
+   
+    }
+    #workwithus img{
+        width: 80vw;
+    }
+
+    #workwithus .right-work{
+        margin-left:15%;
+    }
+    #global .card{
+        height: 500px;
+        
+    }
+    .social ul li{
+        width: 50px;
+        height: 50px;
+    }
+    .social ul a{
+        font-size: 25px;
+     }
+     .work-btn{
+        display: inline;
+     }
+}
+
+
+
+
+
+
+
+
+
+@media(max-width:768px) {
+    header h1{
+        font-size: 40px
+   
+    }
+    header h3{
+        font-size: 25px;
+    }
+    #workwithus .right-work{
+        margin-left:5%;
+    }
+    #global .card{
+        height: 350px;
+        
+    }
+    footer .p{
+        display: inline-block;
+        text-align: left;
+    }
+}
+
+@media(max-width:462px) {
+    #global .card{
+        height: 400px;
+        padding: 20px;
+     }
+     #global .card p{
+         font-size: 18px;
+     }
+     .social ul li{
+        width: 40px;
+        height: 40px;
+        margin: 10px;
+    }
+    .social ul a{
+        font-size: 20px;
+     }
+}
